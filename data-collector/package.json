@@ -16,5 +16,10 @@
     "nodemon": "^3.1.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "bson": "^6.6.0",
+    "moment": "^2.30.1",
+    "queue-typescript": "^1.0.1"
   }
 }
